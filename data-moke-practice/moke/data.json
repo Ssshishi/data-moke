@@ -1,0 +1,9 @@
+{
+  "arr": [
+    {"id": 1, "name": "Jack"},
+    {"id": 2, "name": "Maria"},
+    {"id": 3, "name": "Rose"},
+    {"id": 4, "name": "Tom"},
+    {"id": 5, "name": "通过json-server 创造的 假数据"}
+  ]
+}
